@@ -1,0 +1,45 @@
+Week 3 Group Meeting Scrum
+
+1. 前端所有的重要文件和信息都在这个链接中  https://docs.google.com/document/d/1eyjNPfL0L85x07EU3jTxk5pRkTib-mKhVNnyyrqjrmw/edit
+
+2. 通过React-dom的<Route>,<Link>, <Redirect>来实现前端页面切换（根据麻组长提供的around项目代码作为参考）
+
+3. tracking页面和ordering页面需要考虑Google API的使用（需要提前学习一下google api的使用）
+
+
+*********************************************************************************************************************************************************************************
+
+Week 2 Group Meeting Scrum
+本周前端小队员的讨论内容
+
+1. 确认ui wireframe。 
+       https://www.figma.com/file/aooabqSbVssqvcmCy2M7CR/Dispatch?node-id=0%3A1
+       
+2. 拟定restful api（url），制定表格，定义api的要求可以参考下面链接。
+       https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+
+3. 划分前端开发的主要modules
+       utils.js + app.js + components folder
+
+4. hint: 需参考jupiter项目的前端内容 + onlineshop 项目的后端内容。
+
+5. 后端小组总结的doc：
+       https://docs.google.com/document/d/15O-nrYmdCDNLtM0x_DSCQaX1folnXgYQUAet5B4-Sxs/edit
+
+6. 目前的react project base版本下载了ant design的library。（在/src/index.css文件中 @import '~antd/dist/antd.css'）
+   目前的react project base版本有Setup proxy来预防跨域问题。（在package.json 文件中 "proxy": "http://localhost:8080/"）
+
+7. any other thoughts to share？
+
+	
+*********************************************************************************************************************************************************************************
+
+Week 1 Group meeting scrum
+-- 前端使用的框架: REACT
+-- 前端开发的小组员本周To Do List（:
+       1. （强烈建议）观看youtube视频讲解如何使用REACT与spring boot结合开发项目。https://www.youtube.com/watch?v=i-hoSg8iRG0 
+       2. （Optional) Use React and Spring Boot to Build a Simple CRUD App。 https://developer.okta.com/blog/2018/07/19/simple-crud-react-and-spring-boot
+       3. （Optional) React.js and Spring Data REST。https://spring.io/guides/tutorials/react-and-spring-data-rest/
+-- Glossary：
+       1. 前端的icon网站。https://thenounproject.com/
+       2. UI wireframe制作平台（免费版本只限2人collaborate）。https://www.figma.com/

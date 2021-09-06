@@ -1,0 +1,31 @@
+.App-top {
+    font-family: Arial;
+}
+
+.App-top-logo {
+    text-align: center;
+}
+
+.App-top-title-logo {
+    display: inline;
+    height: 27px;
+    z-index: 1;
+    text-align: center;
+}
+
+.App-top-login-logo {
+    display: inline;
+    height: 20px;
+    z-index: 1;
+
+}
+
+.App-top-font {
+    display: inline-block;
+    color: floralwhite;
+    font-size: 16px;
+}
+
+.App-top-nav {
+    text-align: center;
+}

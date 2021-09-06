@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+@import './styles/Top.css';
+@import './styles/Bottom.css';
+@import './styles/Home.css';
+@import './styles/Login.css';
+@import './styles/AccountInfo.css';
+@import './styles/App.css';
+@import './styles/Tracking.css';
+@import './styles/Ordering.css';
+
+
+/* SZ-a: css引用css都需要加@, js 引用css 不用加@ (import './xxx') */
+/* SZ-a: css文件里对应的每一个 .name 对应的就是 className 所以可以找得到*/
+.ant-row-rtl #components-layout-demo-top .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
